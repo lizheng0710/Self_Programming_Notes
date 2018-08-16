@@ -1,4 +1,5 @@
 ![Singleton](UML/Singleton.JPG)
+
 ###Check list
 - Define a private static attribute in the "single instance" class.
 - Define a public static accessor function in the class.
