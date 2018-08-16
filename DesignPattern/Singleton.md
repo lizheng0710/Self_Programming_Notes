@@ -1,7 +1,3 @@
-***
-
-#Singleton
-###Structure
 ![Singleton](UML/Singleton.JPG)
 ###Check list
 - Define a private static attribute in the "single instance" class.
@@ -9,5 +5,3 @@
 - Do "lazy initialization" (creation on first use) in the accessor function.
 - Define all constructors to be protected or private.
 - Clients may only use the accessor function to manipulate the Singleton.
-
-***
