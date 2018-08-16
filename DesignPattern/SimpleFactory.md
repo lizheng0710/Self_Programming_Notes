@@ -1,0 +1,1 @@
+![SimpleFactory](UML/SimpleFactory.JPG)
